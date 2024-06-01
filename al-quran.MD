@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to [Your App Name]. This privacy policy explains how we collect, use, disclose, and protect your information when you use our mobile application (the "App"). By using the App, you agree to the collection and use of information in accordance with this policy.
+Welcome to Al Quran. This privacy policy explains how we collect, use, disclose, and protect your information when you use our mobile application (the "Al Quran"). By using the App, you agree to the collection and use of information in accordance with this policy.
 
 ## Information We Collect
 
@@ -57,6 +57,5 @@ We may update our privacy policy from time to time. We will notify you of any ch
 
 If you have any questions or concerns about this privacy policy, please contact us at:
 
-[Your Company Name]  
-[Your Contact Information]  
-[Your Email Address]
+Nelu Code
+nelucode@gmail.com
